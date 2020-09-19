@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.stackoverflowsearcher.MainActivity">
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="100"
+        android:title="@string/home_item"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/app_icon"/>
+    <item
+        android:id="@+id/action_history"
+        android:orderInCategory="200"
+        android:title="@string/history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_programer_profile"
+        android:orderInCategory="300"
+        android:title="@string/about_me"
+        app:showAsAction="never" />
+</menu>

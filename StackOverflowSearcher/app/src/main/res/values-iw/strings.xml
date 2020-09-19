@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StackOverflow Searcher</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="next">הבא</string>
+    <string name="previous">קודם</string>
+    <string name="home_item">בית</string>
+    <string name="title_activity_programer_info">אודות המפתח</string>
+    <string name="history">היסטוריה</string>
+    <string name="about_me">קצת לגבי</string>
+    <string name="about_me_title">קצת לגבי:</string>
+    <string name="name_elad_barmack">שם: אלעד ברמק</string>
+    <string name="email_elad705_gmail_com">אימייל: elad705@gmai.com</string>
+    <string name="git_https_github_com_eb205">כתובת גיט: https://github/eb205</string>
+    <string name="phone_97254_705_0000">פלאפון: 0547050000</string>
+    <string name="about_me_text">התחלתי לפתח בגיל 14 וכבר אז התמכרתי לתחום. נכון להיום אני מתמצא בשפות: C#, java, python, javascript וקצת אסמבלי. באופן אישי אני יותר מעדיף לעבור על צד שרת מאשר צד לקוח אבל תציד שמח לעבוד על שניהם בתור fullStack. עכשיו בבקשה אל תלחץ על התמונה שלי 3 פעמים אוקי ?</string>
+    <string name="app_desc">האפליקציה נבנתה בתור מנוע חיפוש מעל תגים בstackoverflow. האפלקציה שומרת את החיפושים על המשתמש ובכך מאפשרת למצוא בקלות את מה הוא חיפש בעבר</string>
+    <string name="search_hint_text">חפש כאן</string>
+    <string name="search_button_text">חפש</string>
+    <string name="warned_you">הזהרתי אותך</string>
+    <string name="no_results">לא נמצאו תוצאות חיפוש עבור</string>
+</resources>

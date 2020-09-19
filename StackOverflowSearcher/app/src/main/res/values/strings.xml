@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StackOverflow Searcher</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="home_item">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_programer_info">ProgramerInfo</string>
+    <string name="history">History</string>
+    <string name="about_me">About me</string>
+    <string name="name_elad_barmack">Name: Elad Barmack</string>
+    <string name="email_elad705_gmail_com">Email: elad705@gmail.com</string>
+    <string name="git_https_github_com_eb205">Git: https://github.com/eb205</string>
+    <string name="phone_97254_705_0000">Phone: +97254-705-0000</string>
+    <string name="about_me_title">About me:</string>
+    <string name="about_me_text">I started programing at the age of 14 and got hooked on it really fast. As of today i\'m frimmiler with: C#, java, python, javascript and a bit of assembly. In my personal opinion i prefer backend more then frontend although i\'m happy to do both as fullStack. Now please just dont press my picture three times ok?</string>
+    <string name="main_page_app_name">Stackoverflow Searcher</string>
+    <string name="app_desc">The app was built as a search engine on stackover flow discussions. The app saves all of the user searches so he can easily find again what he was looking for</string>
+    <string name="search_hint_text">Search Here</string>
+    <string name="search_button_text">Search</string>
+    <string name="warned_you">I warned you :D</string>
+    <string name="no_results">No search results were found for</string>
+</resources>

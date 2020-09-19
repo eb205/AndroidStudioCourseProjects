@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CardActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/fullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="שם: אלעד ברמק"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/phoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="מספר פלאפון: 0547050000"
+        android:onClick="clickPhone"
+        android:clickable="true"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="מיקום: גבעתיים, ישראל"
+        android:textSize="30sp"
+        android:onClick="clickLocation"
+        android:clickable="true"/>
+
+    <TextView
+        android:id="@+id/websiteLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="אתר: http://localhost"
+        android:textSize="30sp"
+        android:onClick="clickWebpage"
+        android:clickable="true"/>
+</LinearLayout>

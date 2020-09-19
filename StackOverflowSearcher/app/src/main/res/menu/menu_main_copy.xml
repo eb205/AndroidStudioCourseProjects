@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.stackoverflowsearcher.ProgramerInfo">
+    <item
+        android:id="@+id/action_home2"
+        android:orderInCategory="100"
+        android:title="@string/home_item"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/app_icon"/>
+</menu>

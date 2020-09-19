@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="save_button_text">Save Parking Location</string>
+    <string name="view_old_parking_locations">View old parking locations</string>
+</resources>
